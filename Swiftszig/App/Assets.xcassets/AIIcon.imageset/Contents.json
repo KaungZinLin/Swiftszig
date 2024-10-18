@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "66564b3ed2b5d2da4fe35d7fcc250bf0_ChatGPT.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
